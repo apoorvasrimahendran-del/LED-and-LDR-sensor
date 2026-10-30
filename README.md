@@ -15,11 +15,11 @@ A simple Arduino project that uses an LDR sensor to detect light levels and auto
 4. When it detects BRIGHT, the LED turns OFF.
 # Output
 
-"LDR Sensor Output" (./ldrsensor.jpeg)
+"LDR Sensor Output" (./ledandldr.jpeg)
 
-Arduino Code
+# Arduino Code
 
-"View Arduino Code" (./ldrsensor.ino)
+"View Arduino Code" (./ledandldr.ino)
 
 # Learning Outcome
 Learned how to use an LDR sensor, read light values, and control an LED using Arduino.
